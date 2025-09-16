@@ -1,0 +1,10 @@
+#
+# Copyright (C) 2024 The Android Open Source Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+ro.display.series=Samsung Galaxy A34 5G
+ro.product.board=mt6877
+ro.board.platform=mt6877
+ro.boot.dynamic_partitions=true
